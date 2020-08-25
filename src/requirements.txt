@@ -1,3 +1,4 @@
 keras
-opencv-python
+tensorflow
+opencv-contrib-python
 h5py
