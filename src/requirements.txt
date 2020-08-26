@@ -1,4 +1,6 @@
 keras
-tensorflow
-opencv-contrib-python
+scipy==1.4.1
+tensorflow==2.2.0
 h5py
+pika
+pymongo
